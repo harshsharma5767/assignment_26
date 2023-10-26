@@ -1,0 +1,50 @@
+.navbar-nav{
+    margin-left: auto;
+    margin-top: 50px;
+    font-family: poppins;
+    font-size: 15px;
+    color: white;
+}
+.container-3{
+    margin-top: 100px;
+}
+.studio{
+    margin-top: 80px;
+    
+}
+.studio-title{
+    font-family: poppins;
+    font-size: 40px;
+    font-weight: 700;
+}
+.studio-caption h3{
+    font-family: roboto;
+    font-size: 20px;
+    font-weight: 700;
+}
+.studio-title h2{
+    font-family: roboto;
+}
+.content p{
+    padding: 15px 15px 15px 5px;
+}
+.content-1{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+.heading-text{
+    margin-top: 40px;
+}
+.container-1{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 80px;
+    margin-top: 80px;
+}
